@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Lucky
 subtitle: ''
-description: ''
+description: "A life of mist and rain" #一蓑烟雨任平生
 keywords:
-author: John Doe
-language: en
+author: Zhch's Blog
+language: zh-CN
 timezone: ''
 
 # URL
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: my_next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
