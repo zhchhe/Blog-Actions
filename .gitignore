@@ -6,6 +6,3 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
-[submodule "themes/next"]
-    path = themes/next
-    url = https://github.com/next-theme/hexo-theme-next
