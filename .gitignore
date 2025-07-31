@@ -6,4 +6,6 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
-themes/next
+[submodule "themes/next"]
+    path = themes/next
+    url = https://github.com/next-theme/theme-next-docs
